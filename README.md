@@ -12,7 +12,7 @@ After 4+ years in Human Resources and 2 years in call center roles, I've embarke
 
 ### 🛠️ Current Learnings and Tools
 ------------
-- 🌱 Learning: HTML/CSS, JavaScript, Git
+- 🌱 Learning: HTML/CSS, JavaScript, Git, React
 - 🛠️ Tools: VS Code, GitHub, Command Line
 - 📚 Interested In: Web Development, Mobile Development
 
